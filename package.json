@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/dylanavilla1/dylanavilla",
+  "homepage": "https://dylanavilla1.github.io/dylanavilla/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -29,6 +29,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "gh-pages": "^6.0.0",
     "postcss": "^8.4.30",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.5"
